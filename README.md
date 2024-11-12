@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zhangtao25. wr_zhang25,wr.zhang25, these are my codenames on the internet.
+- 👋 Hi, I’m @zhangtao25. wr_zhang25, wr.zhang25, these are my codenames on the internet.
 - 👀 I’m interested in javascript and working on the [Canyon](https://github.com/canyon-project/canyon).
 - 🌱 I’m currently learning rust.
 - 💞️ I’m looking to collaborate on e2e javascript coverage.
